@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gustavo kogistski correa
 - 👀 I’m interested in aprender cada dia mais, estou estudando,https://www.alura.com.br/, scratch,p+5
 - 🌱 I’m currently learning programação e desnvolver aplicativos
-- 💞️ I’m looking to collaborate eu vou contribuir para ajudar o mundo, e as pessoas
+- 💞️ I’m looking to collaborate pra contribuir com o mundo, e as pessoas
 - 📫 How to reach me @gustavo.kogistski.correa@escola.pr.gov.br
 
 <!---
